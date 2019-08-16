@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{Learn Enough Ruby palindrome detector}
   spec.homepage      = "https://github.com/eBrou/ruby_palindrome.git"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
   # spec.metadata["homepage_uri"] = spec.homepage
   # spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
